@@ -1,0 +1,10 @@
+.boxshadow:hover{
+   transition:all;
+   transition-duration: 200ms;
+   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.boxshadow:hover .bgcolorchng{
+   transition:all;
+   transition-duration: 200ms;
+   background-color: rgb(6, 150, 253);
+}
